@@ -3,4 +3,4 @@ In this Project I will try to develop a movie recommender system using content b
 
 
 ## My Basic Structure of the Project
-![My Basic Roadmap](./images/basicroadmap.jpg)
+![My Basic Roadmap](./images/basicroadmap.png)
