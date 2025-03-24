@@ -10,6 +10,7 @@ In this Project I will try to develop a movie recommender system using content b
 
 This is a movie recommender system built using machine learning and natural language processing (NLP) techniques. The system recommends movies based on content similarity using a variety of movie features such as genres, cast, crew, keywords, and overview.
 
+**Data Set Used**: [https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_movies.csv]
 **Live Demo:** [https://movierecommendersyste.streamlit.app/](https://movierecommendersyste.streamlit.app/)
 
 
