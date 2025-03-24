@@ -43,4 +43,4 @@ if st.button("Recommend"):
     for i in range(len(names)):
         with cols[i % 5]:
             st.text(names[i])
-            st.image(posters[i], use_column_width=True)
+            st.image(posters[i], use_container_width=True))
